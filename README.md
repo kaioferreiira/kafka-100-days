@@ -2,32 +2,31 @@
 
 Essa é uma iniciativa de 100 dias com o Kafka. É um desafio que ajuda os desenvolvedores 
 a criar hábitos de codificação fortes com um caminho de aprendizado autodirigido. 
+
 As etapas a seguir são para desenvolvedores interessados em trabalhar com streaming de eventos usando
-o Apache Kafka®, essa sequencia é baseada em uma curva de aprendizado proposta pela própria 
-Confluencs.
+o Apache Kafka®, essa sequencia é baseada em uma curva de aprendizado proposta pela própria Confluence,
+mas iremos adaptar conforme necessidade.
 
-
-
-
-Compartilhe seu progresso todos os dias nas mídias sociais ( Twitter , LinkedIn – onde quiser) e inclua#100DaysOfCode @ApacheKafka
-
+Para iniciar o projeto, vamos compartilhar nosso progresso todos os dias nas mídias sociais ( Twitter , LinkedIn – onde quiserermos)
+e inclua#100DaysOfCode #ApacheKafka
 
 ## As regras básicas são:
 
 1. Aprenda Kafka na prática por pelo menos uma hora, todos os dias, pelos próximos 100 dias
-2. Tweetar seu progresso usando as tags #100DaysOfCode, #ApachaKafka ou #100DaysOfKafka
+   1. Neste item irei modificar, vou reservar 1h por dia, mas somente por 5 dias na semana, pois vou rever os conteúdos e próximos passos.
+2. Tweetar o progresso usando as tags #100DaysOfCode, #ApachaKafka ou #100DaysOfKafka
 3. Commitar e deixar registrado o progresso
 
 ## Recomendações
 
 1. Tente usar Java, apesar de Kafka ter APIs em outras linguagens, a API Java é a mais rica! 
-2. Controle e injeção de dependencia: Para realizar o testes usaremos Java, ao decorrer das atividades precisaremos usar uma ferramenta para o contrele de
+2. Controle e injeção de dependencia: Para realizar o testes usaremos Java, ao decorrer das atividades precisaremos usar uma ferramenta para o controle de
     dependencias, usarei o[Gradle](https://gradle.org/guides/#getting-started).
-3. Tenha o [SDKMan](https://sdkman.io/), intalado, ele vai te possibilitar controlar as versões do Java encontradas na sua máquina. 
+3. Tenha o [SDKMan](https://sdkman.io/), instalado, ele vai te possibilitar controlar as versões do Java encontradas na sua máquina. 
 
 ## Roteiro
 
-- [ ] [**Dia 001**](./dia-001/README.md) - Quick Start	The simplest way to get started with Apache Kafka: Write your first data record and read it in real time.
+- [X] [**Dia 001**](./dia-001/README.md) - Introdução ao Apache Kafka 
 
 [//]: # (  2	Events	We live in a world of events—payments, website clicks, temperature readings, and more. Learn how to process those events in an event streaming platform.)
 [//]: # (  3	Topics	In Kafka, all events are stored in topics—ordered, immutable, append-only logs. Learn how to create and work with Kafka topics.)
