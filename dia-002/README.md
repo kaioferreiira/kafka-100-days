@@ -1,6 +1,6 @@
 # Dia 002
 
-#Introdução
+# Introdução
 
 Hoje em dia é bem comum e desejável que nossas aplicações se comuniquem de forma assíncrona, queremos mais interoperabilidade em nossos serviços e que eles se comuniquem e realizem informações independentemente, sendo assim, publicar eventos e consumir eventos em um canal de dados  é a forma mais atrativa para essa ideia.
 
