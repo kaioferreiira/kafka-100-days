@@ -24,11 +24,12 @@ e inclua#100DaysOfCode #ApacheKafka
     dependencias, usarei o[Gradle](https://gradle.org/guides/#getting-started).
 3. Tenha o [SDKMan](https://sdkman.io/), instalado, ele vai te possibilitar controlar as versões do Java encontradas na sua máquina. 
 
-## Roteiro
+## Cronograma
 
-- [X] [**Dia 001**](./dia-001/README.md) - Introdução ao Apache Kafka 
+- [X] [**Dia 001**](./dia-001/README.md) - Introdução ao Apache Kafka
+- [X] [**Dia 002**](./dia-002/README.md)  - O que são Events?  
 
-[//]: # (  2	Events	We live in a world of events—payments, website clicks, temperature readings, and more. Learn how to process those events in an event streaming platform.)
+
 [//]: # (  3	Topics	In Kafka, all events are stored in topics—ordered, immutable, append-only logs. Learn how to create and work with Kafka topics.)
 [//]: # (  4	Partitions	Kafka topics are made up of partitions, which can be spread across multiple brokers in a cluster. Learn how partitions can help you to increase throughput and scale your applications.)
 [//]: # (  5	Brokers	Kafka brokers are fast and easy to scale, due in large part to their simplicity. Learn a few basics about brokers to see why they scale so well.)
